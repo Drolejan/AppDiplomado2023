@@ -11,5 +11,5 @@ public class codigoActivador : MonoBehaviour
     {
         objetoPorActivar.SetActive(true);
     }
-    
+    //HOLA
 }
